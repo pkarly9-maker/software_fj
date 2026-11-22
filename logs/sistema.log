@@ -1,0 +1,24 @@
+2026-11-21 22:02:31 | INFO     | software_fj | Cliente registrado: Cliente#1 Ana Torres <ana@example.com> tel:3001234567, doc: CC123
+2026-11-21 22:02:31 | INFO     | software_fj | Cliente registrado: Cliente#3 Carlos Pérez <carlos@example.com> tel:3109998888
+2026-11-21 22:02:31 | INFO     | software_fj | Servicio agregado: Reserva de Salas#5 Sala Ejecutiva (capacidad 12 personas)
+2026-11-21 22:02:31 | INFO     | software_fj | Servicio agregado: Alquiler de Equipos#6 Proyector 4K (tipo: Video)
+2026-11-21 22:02:31 | INFO     | software_fj | Servicio agregado: Asesoría Especializada#7 Consultoría Cloud (área: TI)
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva creada: Reserva#1 | Ana Torres -> Sala Ejecutiva | 6.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva #1 confirmada para Ana Torres.
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva #1 procesada. Costo total: $305235.00
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva creada: Reserva#2 | Carlos Pérez -> Consultoría Cloud | 2.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva creada: Reserva#3 | Carlos Pérez -> Proyector 4K | 4.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva creada: Reserva#4 | Ana Torres -> Proyector 4K | 2.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:02:31 | INFO     | software_fj | Reserva #4 cancelada.
+2026-11-21 22:03:49 | INFO     | software_fj | Cliente registrado: Cliente#1 Ana Torres <ana@example.com> tel:3001234567, doc: CC123
+2026-11-21 22:03:49 | INFO     | software_fj | Cliente registrado: Cliente#3 Carlos Pérez <carlos@example.com> tel:3109998888
+2026-11-21 22:03:49 | INFO     | software_fj | Servicio agregado: Reserva de Salas#5 Sala Ejecutiva (capacidad 12 personas)
+2026-11-21 22:03:49 | INFO     | software_fj | Servicio agregado: Alquiler de Equipos#6 Proyector 4K (tipo: Video)
+2026-11-21 22:03:49 | INFO     | software_fj | Servicio agregado: Asesoría Especializada#7 Consultoría Cloud (área: TI)
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva creada: Reserva#1 | Ana Torres -> Sala Ejecutiva | 6.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva #1 confirmada para Ana Torres.
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva #1 procesada. Costo total: $305235.00
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva creada: Reserva#2 | Carlos Pérez -> Consultoría Cloud | 2.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva creada: Reserva#3 | Carlos Pérez -> Proyector 4K | 4.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva creada: Reserva#4 | Ana Torres -> Proyector 4K | 2.0h | estado=PENDIENTE | costo=$0.00
+2026-11-21 22:03:49 | INFO     | software_fj | Reserva #4 cancelada.
